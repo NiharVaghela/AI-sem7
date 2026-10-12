@@ -1,0 +1,2 @@
+# AI-sem7
+LAB MANUAL
